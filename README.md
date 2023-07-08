@@ -1,6 +1,6 @@
 ### Sobre mim:
 
-Em minha área eu atuo com muitas coisas diferentes, as principais no momento envolvem servidores Linux e Windows, redes de computadores (desde a infraestrutura à administração) administração de sistema e suporte técnico aos usuários da empresa, no entanto, não me limito a apenas isso, sou curioso e minha curiosidade me leva a me envolver e a estudar sobre quase tudo que me desperta interesse, procurando resolver e compreender os desafios e problemas envolvidos na área, é uma ótima forma de aprendizado, gosto de ser "pau pra toda obra" 😉. Uma coisa que compreendi e tomei para minha vida foi a encarar os desafios, não significa que vou vencer o que está a minha frente, e algumas vezes sei que não vou, mas sairei fortalecido e tendo aprendido coisas novas e importantes.
+Em minha área eu atuo com muitas coisas diferentes, as principais no momento envolvem servidores Linux e Windows, redes de computadores (desde a infraestrutura à administração) administração de sistema e suporte técnico aos usuários da empresa, no entanto, não me limito a apenas isso, sou curioso e minha curiosidade me leva a me envolver e a estudar sobre quase tudo que me desperta interesse, procurando resolver e compreender os desafios e problemas envolvidos na área, é uma ótima forma de aprendizado. Uma coisa que compreendi e tomei para minha vida foi a encarar os desafios, não significa que vou vencer o que está a minha frente, e algumas vezes sei que não vou, mas sairei fortalecido e tendo aprendido coisas novas e importantes.
 
 ##
 
