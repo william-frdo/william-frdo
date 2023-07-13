@@ -10,6 +10,7 @@ Em minha área eu atuo com muitas coisas diferentes, as principais no momento en
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=william-frdo&layout=compact&langs_count=7&theme=github_dark_dimmed"/>
 </div>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Will-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Will-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Will-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Will-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
